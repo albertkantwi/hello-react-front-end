@@ -1,6 +1,6 @@
-import React, { useEffect } from "react";
-import { useSelector, useDispatch } from "react-redux";
-import getRandomGreeting from "../api";
+import React, { useEffect } from 'react';
+import { useSelector, useDispatch } from 'react-redux';
+import getRandomGreeting from '../api';
 
 const Greeting = () => {
   const randomGreeting = useSelector((state) => state.greetings.randomGreeting);
