@@ -87,7 +87,7 @@ To test, run:
 
 ### Back-end API Project <a name="back-end"></a>
 
-Back-end API project [link](https://github.com/albertkantwi/hello-rails-back-end.git).
+Back-end API project [link](https://github.com/albertkantwi/hello-rails-back-end).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
